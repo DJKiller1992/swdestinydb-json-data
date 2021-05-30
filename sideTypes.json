@@ -47,6 +47,11 @@
     {
         "code": "ID",
         "icon": "indirect",
-        "name": "Indirect Damage"
+        "name": "Indirect Damage"},
+    },
+    {
+        "code": "Fr",
+        "icon": "feral",
+        "name": "Feral"
     }
 ]
