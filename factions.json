@@ -18,5 +18,10 @@
         "code": "yellow",
         "is_primary": true,
         "name": "Rogue"
+    },
+    {
+        "code": "green",
+        "is_primary": true,
+        "name": "Nature"
     }
 ]
