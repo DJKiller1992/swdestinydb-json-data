@@ -28,5 +28,11 @@
         "date_release": null,
         "name": "Eternal Conflict",
         "position": 5
+         },
+    {
+        "code": "WH",
+        "date_release": null,
+        "name": "Wild Horizon",
+        "position": 6
     }
 ]
