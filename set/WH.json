@@ -82,7 +82,8 @@
         "set_code": "WH",
         "subtypes": [
             "move"
-        "text": "Return a <b>weapon</b> you control to its owner's hand to deal 2 damage to a characters or 2 damage to each of an opponent's characters instead if that <b>weapon</b> has "\"Lightsaber"\" in its title.",
+        ],
+        "text": "Return a <b>weapon</b> you control to its owner's hand to deal 2 damage to a characters or 2 damage to each of an opponent's characters instead if that <b>weapon</b> has \"Lightsaber\" in its title.",
         "ttscardid": "00000",
         "type_code": "event"
     },
@@ -100,8 +101,9 @@
         "position": 5,
         "rarity_code": "S",
         "set_code": "WH",
-        "subtypes": [
+       "subtypes": [
             "mission"
+        ],
         "text": "<b>Action</b> - Spot a Blue character to choose an opponent's character that has 5 or less remaining health. Then, if that character has no shields and each of its character dice are in a pool showing a blank ([blank]), discard each card on it to take control of it. Set this plot aside.",
         "ttscardid": "00000",
         "type_code": "plot"
@@ -370,7 +372,7 @@
         "rarity_code": "S",
         "set_code": "WH",
         "subtypes": [
-            "ability",
+            "ability"
        ],
         "text": "Unique character only.\nAfter an opponent's die rolls damage ([ranged], [melee] or [indirect]), you may exhaust this upgrade and remove one of attached character's character dice to remove that die.",
         "ttscardid": "00000",
@@ -402,7 +404,7 @@
         "subtitle": "Ferocious Gladiator",
         "subtypes": [
             "bounty hunter"
-            "wookie"
+            
         ],
         "text": "You may play <b>wild</b> upgrades on this character, ignoring play restrictions.\nAfter the upkeep phase begins, you may deal 3 indirect damage ([indirect]) to an opponent unless they discard a support or upgrade they control from play.",
         "ttscardid": "00000",
@@ -433,7 +435,7 @@
         ],
         "subtitle": "Lone Hunter",
         "subtypes": [
-            "bounty hunter",
+            "bounty hunter"
         ],
         "text": "Before you resolve one of this character's character dice, if you control no other characters, you may increase its value by 1.",
         "ttscardid": "00000",
@@ -464,7 +466,7 @@
         ],
         "subtitle": "Mad Doctor",
         "subtypes": [
-            "scoundrel",
+            "scoundrel"
         ],
         "text": "This character is considered to have 12 <b>bounty</b> downgrades on him that do not count against his downgrade limit.\n After this character is defeated, each opponent gains 3 resources.",
         "ttscardid": "00000",
@@ -495,7 +497,7 @@
         ],
         "subtitle": "Crime Lord",
         "subtypes": [
-            "leader"
+            "leader",
             "scoundrel"
         ],
         "text": "After you activate this character, you may spend 1 resource to roll a <b>creature</b> die on a card you control into your pool.",
@@ -566,20 +568,20 @@
         "has_errata": false,
         "illustrator": "God Roll",
         "is_unique": true,
-        "name": "Khetanna
+        "name": "Khetanna",
         "position": 24,
         "rarity_code": "S",
         "set_code": "WH",
         "sides": [
-            "2RD
-            "3RD1R
-            "2Sh
-            "1R
-            "3R1R
+            "2RD",
+            "3RD1R",
+            "2Sh",
+            "1R",
+            "3R1R",
             "-"
         ],
         "subtypes": [
-            "vehicle
+            "vehicle"
         ],
         "text": "After you activate this support, you may have each player gain 1 resource.",
         "ttscardid": "00000",
@@ -587,7 +589,7 @@
     },
     {
         "affiliation_code": "villain",
-        "code": "201025
+        "code": "201025",
         "cost": 3,
         "deck_limit": 2,
         "faction_code": "yellow",
@@ -637,7 +639,7 @@
             "-"
         ],
         "subtypes": [
-            "pirate"
+            "pirate",
             "scoundrel"
         ],
         "text": "After you play this support, you may remove a die showing damage ([ranged], [melee] or [indirect]).",
@@ -841,7 +843,7 @@
         "rarity_code": "S",
         "set_code": "WH",
         "subtypes": [
-            "injury",
+            "injury"
        ],
         "text": "Damaged character without a Mangled on it only.\nAttached character has -1 upgrade limit.",
         "ttscardid": "00000",
@@ -1188,7 +1190,7 @@
             "1Dc"
         ],
         "subtypes": [
-            "ability"
+            "ability",
             "wild"
         ],
         "text": "Modify <b>creature</b> character or support. (Play this upgrade only on a <b>creature</b>.)\nAfter you activated attached <b>creature</b>, you may reroll one of your Green Dice.",
@@ -1360,7 +1362,8 @@
         "rarity_code": "S",
         "set_code": "WH",
        "subtypes": [
-            "location"
+            "jedi"
+        ],
         "text": "During the action phase, play with the top card of your deck revealed.\n<b>Action</b> - Exhaust this support to play the top card of your deck (paying its cost). You may spend 1 resource to ready this support.",
         "ttscardid": "00000",
         "type_code": "support"
@@ -1388,7 +1391,7 @@
             "3Sh"
         ],
         "subtypes": [
-            "title",
+            "title"
         ],
         "text": "<b>Jedi</b> character only.Redeploy.\n Your <b>Jedi</b> dice cannot be rerolled or turned by opponent's effects.\n<b>Action</b> - Exhaust this upgrade to roll one of attached character's character dice into your pool.",
         "ttscardid": "00000",
@@ -1471,7 +1474,7 @@
         ],
         "subtitle": "Reluctant Captain",
         "subtypes": [
-            "leader"
+            "leader",
             "scoundrel"
         ],
         "text": "You can include up to 10 Yellow cards in your deck (following deckbuilding restrictions).\n<b>Power Action</b> - Play a Red card and a Yellow card from your hand in any order.",
@@ -1717,7 +1720,7 @@
         ],
         "subtitle": "Loyal Smuggler",
         "subtypes": [
-            "pilot"
+            "pilot",
             "scoundrel"
         ],
         "text": "Piloting.\nAfter an opponent gains 1 or more resources during the action phase, you may place 1 resource on this card.\nResources on this card can be used to pay for the first event you play each round.",
@@ -1789,16 +1792,16 @@
         "illustrator": "God Roll",
         "is_unique": false,
         "name": "Spoils of War",
-        "position": 72
+        "position": 72,
         "rarity_code": "S",
-        "set_code": "WH
-        "text": "Reroll up to 2 of an opponent's dice. If that opponent claimed the battlefield this round, resolve any number of their dice as if they were in your pool.
+        "set_code": "WH",
+        "text": "Reroll up to 2 of an opponent's dice. If that opponent claimed the battlefield this round, resolve any number of their dice as if they were in your pool.",
         "ttscardid": "00000",
         "type_code": "event"
     },
     {
         "affiliation_code": "hero",
-        "code": "201073
+        "code": "201073",
         "cost": 0,
         "deck_limit": 2,
         "faction_code": "yellow",
@@ -1839,7 +1842,7 @@
         ],
         "subtitle": "Champion of Kashyyyk",
         "subtypes": [
-            "scoundrel"
+            "scoundrel",
             "wookie"
         ],
         "text": "After an upgrade is attached to this character for the first time each round, you may deal 1 indirect damage ([indirect]) to an opponent.",
@@ -1871,7 +1874,7 @@
         ],
         "subtitle": "Fight Together",
         "subtypes": [
-            "creature"
+            "creature",
             "leader"
         ],
         "text": "<b>Ability</b> and <b>wild</b> upgrades only.\nYou can include up to 5 non-villain Blue cards in your deck. You cannot have Kanan Jarrus on your team.\n[special] - Deal 1 damage to a character. You may turn a die to any side.",
@@ -2182,7 +2185,7 @@
             "-"
         ],
         "subtypes": [
-            "creature"
+            "creature",
             "mount"
         ],
         "text": "Ambush. Redeploy.\n<b>Power Action</b> - Attach this suport to one of your non-<b>creature</b> characters as an upgrade or unattach it.\nAfter you attach this card to a character, you may activate that character.",
@@ -2307,7 +2310,7 @@
         "faction_code": "green",
         "has_die": true,
         "has_errata": false,
-        "illustrator": "God Roll",
+        "illustrator": "Andrew Olson",
         "is_unique": false,
         "name": "Tracker",
         "position": 95,
