@@ -2206,7 +2206,6 @@
         "position": 91,
         "rarity_code": "S",
         "set_code": "WH",
-        "sides": [
         "subtypes": [
             "ability"
         ],
@@ -2295,7 +2294,7 @@
             "Sp"
         ],
         "subtypes": [
-            "ability"
+            "ability",
             "wild"
         ],
         "text": "Modify <b>creature</b> character or support. (Play this upgrade only on a <b>creature</b>.)\n[special] - For each of your dice showing a special ([special]) (including this die), deal 1 damage to a character.",
@@ -2729,7 +2728,7 @@
         "rarity_code": "S",
         "set_code": "WH",
         "subtypes": [
-            "jawa"
+            "jawa",
             "scavenger"
         ],
         "text": "Include only if you have a Gray character or another Green character on your team.\nAfter you activate this character, you may play a Green card from your hand (paying its cost). Then draw a card.",
@@ -3180,7 +3179,7 @@
             "-"
         ],
         "subtypes": [
-            "creature"
+            "creature",
             "mount"
         ],
         "text": "<b>Power Action</b> - Attach this card to one of your non-<b>creature</b> characters as an upgrade or unattach it.\nAfter this card is attached to a character, you may give that character 1 shield. Gain 1 action.",
@@ -3249,7 +3248,7 @@
             "-"
         ],
         "subtypes": [
-            "ability"
+            "ability",
             "wild"
         ],
         "text": "Green character only.",
@@ -3279,7 +3278,7 @@
             "1Dr"
         ],
         "subtypes": [
-            "ability"
+            "ability",
             "wild"
         ],
         "text": "Modify <b>creature</b> character or support. (Play this upgrade only on a <b>creature</b>.)\nAfter this upgrade is attached to a card, you may deal 1 damage to a character.",
