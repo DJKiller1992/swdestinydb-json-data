@@ -183,5 +183,16 @@
         "position": 702,
         "project_name": "The Coruscant Initiative",
         "size": 34
+    },
+    {
+        "cgdb_id_end": null,
+        "cgdb_id_start": null,
+        "code": "WH",
+        "cycle_code": "GR",
+        "date_release": "2021-12-11",
+        "name": "Wild Horizon",
+        "position": 201,
+        "project_name": "God Roll",
+        "size": 150
     }
 ]
